@@ -1,3 +1,4 @@
 theme: jekyll-theme-leap-day
 index_url: 'https://sabinem.github.io/python-articles/' 
 base_url: 'https://sabinem.github.io/'
+description: Here you can find my writing about Python
