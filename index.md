@@ -1,6 +1,6 @@
 # Python Articles
 
-I wrote some articles about Python: my most successful ones were those, where I combined an article with a Prezi presentation. So below you can find a list of those articles. 
+Here you can find some articles about Python, that I wrote. My most successful ones were those, where I combined the article with a **Prezi presentation**. So below you can find a list of those articles. 
 
 ## Python Articles with Prezis
 - 07/2016: [Understanding Generators in Python](python/generators/python_generators.md)
