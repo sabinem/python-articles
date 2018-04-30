@@ -42,3 +42,21 @@ since this is an easy topic, there is only one PEP regarding that topic: [PEP 30
 
 - it was started in 2003 and all updates are from that year.
 - notice that there is a section in the PEP on "To Do (Notes for the Interested and Ambitious)". I wonder whether that has ever been coded?
+
+### PEPS are the better documentation
+I think in order to understand Python it is often better to read the PEPs: in this PEP, we learn:
+- the history about why csv handling has become part of the standard library and what has been there before
+- the interface: what are the important methods, that should be covered by that module
+
+### The history
+- CSV Files used to come in many shapes and formats, such the "V" was considered to stand for "vague"
+- there were different incompatible modules handling them up to that time being used by the Python community
+- the PEP was a proposal to standardize these approaches
+
+### The Interface
+Three methods were needed regarding csv files:
+- reading
+- writing 
+- sniffing: finding out what format the file was written in
+
+
