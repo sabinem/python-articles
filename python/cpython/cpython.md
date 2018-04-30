@@ -40,4 +40,5 @@ I chose that example, because its scope is limited and the task and methods are 
 ###  PEP 305 -- CSV File API
 since this is an easy topic, there is only one PEP regarding that topic: [PEP 305](https://www.python.org/dev/peps/pep-0305/)
 
-it was started in 2003 and all updates are from that year.
+- it was started in 2003 and all updates are from that year.
+- notice that there is a section in the PEP on "To Do (Notes for the Interested and Ambitious)". I wonder whether that has ever been coded?
