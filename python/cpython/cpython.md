@@ -9,12 +9,27 @@ The talk that got me on that track is the following by Armin Ronacher, who has b
 <iframe width="560" height="315" src="https://www.youtube.com/embed/IeSu_odkI5I?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen>
 </iframe>
 
-## How Python is driven by CPython
+### How Python is driven by CPython
 His main point in this talk is that Python is too much oriented towards CPython. Its future is shaped by whatever CPython is able to deliver, even though there are Jython Pypy and some more implementations of Python that have different possibilties.
 
-## How things could be different
+### How things could be different
 He contrasted Python with Javascript. What is different there is that:
 - a language standard, such as [ECMAScript](https://en.wikipedia.org/wiki/ECMAScript) that is constantly evolving and tries to reach a common ground
-- a translation tool to program in the future and back translate, such as babel
+- a translation tool to program in the future and back translate, such as [babel](https://babeljs.io/)
 
-s instead of constantly broading the language as it happens in Python.
+### Python is not standardized: instead it is becoming ever broader
+
+How can you get a quick overview on the evolving of the language?
+
+We will look at:
+- PEPs
+- CPython and how the repo is structured
+- a concrete example such csv reading and writing
+
+## PEPs describe what is behind the language constructs
+When experienced Python people want to know what is going on in the language or what is new in a new release they look at PEPs.
+
+Let's
+
+## The example of csv files
+I chose that example, because its scope is limited and the task and methods are easy to understand.
