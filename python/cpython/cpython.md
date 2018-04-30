@@ -1,4 +1,7 @@
-# CPython
+# Understanding the forces that drive Python
+
+## What you get from this article
+
 
 To understand Python we have to understand where Python comes from.
 
