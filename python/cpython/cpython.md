@@ -33,3 +33,11 @@ Let's
 
 ## The example of csv files
 I chose that example, because its scope is limited and the task and methods are easy to understand.
+
+### csv did start as an independent module
+- that was back in 2001 [csv module](http://www.object-craft.com.au/projects/csv/news.html#20021120)
+
+###  PEP 305 -- CSV File API
+since this is an easy topic, there is only one PEP regarding that topic: [PEP 305](https://www.python.org/dev/peps/pep-0305/)
+
+it was started in 2003 and all updates are from that year.
