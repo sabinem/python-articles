@@ -7,4 +7,4 @@ Here you can find some articles about Python, that I wrote. My most successful o
 - 06/2014: [Djangos Class Based Generic Views](python/djangos_class_based_generic_views/djangos_class_based_generic_views.md)
 
 ## Drafts
-- 05/2018 [Where Python is heading](python/cpython.md)
+- 05/2018 [Where Python is heading](python/cpython/cpython.md)
