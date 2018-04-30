@@ -13,4 +13,8 @@ The talk that got me on that track is the following by Armin Ronacher, who has b
 His main point in this talk is that Python is too much oriented towards CPython. Its future is shaped by whatever CPython is able to deliver, even though there are Jython Pypy and some more implementations of Python that have different possibilties.
 
 ## How things could be different
-He contrasted Python with Javascript where there is a language standard, such as ECMA6 that is constantly evolving and tries to reach aggrements and translations instead of constantly broading the language as it happens in Python.
+He contrasted Python with Javascript. What is different there is that:
+- a language standard, such as [ECMAScript](https://en.wikipedia.org/wiki/ECMAScript) that is constantly evolving and tries to reach a common ground
+- a translation tool to program in the future and back translate, such as babel
+
+s instead of constantly broading the language as it happens in Python.
