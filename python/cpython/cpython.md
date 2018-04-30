@@ -54,9 +54,11 @@ I think in order to understand Python it is often better to read the PEPs: in th
 - the PEP was a proposal to standardize these approaches
 
 #### The Interface
-Three methods were needed regarding csv files:
+Three APIs were needed regarding csv files:
 - reading
 - writing 
 - sniffing: finding out what format the file was written in
+
+> This PEP supports three basic APIs, one to read and parse CSV files, one to write them, and one to identify different CSV dialects to the readers and writers.
 
 
